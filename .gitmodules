@@ -1,3 +1,6 @@
 [submodule "themes/zola-clean-blog"]
 	path = themes/zola-clean-blog
 	url = https://github.com/dave-tucker/zola-clean-blog
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/getzola/even.git
