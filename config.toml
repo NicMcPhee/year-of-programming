@@ -7,7 +7,9 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-theme = "even"
+title = "Nic McPhee's Year of Programming"
+
+theme = "kodama-theme"
 
 taxonomies = [
     {name = "categories", feed = true, paginate_by=5},
@@ -21,3 +23,16 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+
+email = "mcphee[at]morris.umn.edu"
+
+# Image of your avatar displayed on the landing page
+avatar = "static/img/avatar.jpg"
+# Image of the favicon
+favicon = "static/img/avatar.jpg"
+
+# Additional menu items
+# `Name` is what it is displayed, `path` is the url
+menu_items = [
+  { path = "#contacts", name = "Contact" },
+]
