@@ -4,3 +4,5 @@
 [submodule "themes/even"]
 	path = themes/even
 	url = https://github.com/getzola/even.git
+[submodule "themes/kodama-theme"]
+	url = https://github.com/adfaure/kodama-theme
