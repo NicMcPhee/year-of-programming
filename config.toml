@@ -27,9 +27,9 @@ highlight_code = true
 email = "mcphee[at]morris.umn.edu"
 
 # Image of your avatar displayed on the landing page
-avatar = "static/img/avatar.jpg"
+avatar = "static/img/Avatar_square.jpg"
 # Image of the favicon
-favicon = "static/img/avatar.jpg"
+favicon = "static/img/Avatar_square.jpg"
 
 # Additional menu items
 # `Name` is what it is displayed, `path` is the url
