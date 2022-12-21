@@ -38,7 +38,7 @@
                     <h2 class="font-bold font-sans break-normal text-gray-900 text-2xl py-1">Interests</h2>
                     <ul class="list-disc pl-4">
                         {% for interest in section.extra.interests %}
-                        <li class="py-1"> {{ interest }} </li>
+                        <li class="py-1 underline"> <a href={{ interest.url }}> {{ interest.label }} </a></li>
                         {% endfor %}
                     </ul>
                 </div>

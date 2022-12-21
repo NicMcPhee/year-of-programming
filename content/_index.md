@@ -7,10 +7,10 @@ page_template="simple-page.html"
 title = "A year of learning cool stuff (mostly involving Rust)"
 
 interests = [
-  "Teaching",
-  "Programming",
-  "Photography",
-  "Music"
+  { label = "Teaching", url = "https://www.morris.umn.edu" },
+  { label = "Programming", url = "https://github.com/NicMcPhee" },
+  { label = "Photography", url = "https://flickr.com/photos/nicmcphee" },
+  { label = "Music", url = "https://bandcamp.com/NicMcPhee" }
 ]
 
 [[extra.education.courses]]
