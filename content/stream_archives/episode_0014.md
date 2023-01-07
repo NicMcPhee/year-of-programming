@@ -4,13 +4,13 @@ date = 2022-08-02
 description = "Made some excellent progress today, with a ton of help from @esitsu on Twitch (https://www.twitch.tv/esitsu)!"
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "85inT7-5aQ0"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=85inT7-5aQ0&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=85inT7-5aQ0&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "85inT7-5aQ0"
 
 <div>
  {{ 
-    youtube(id="85inT7-5aQ0", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="85inT7-5aQ0", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

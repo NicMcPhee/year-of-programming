@@ -4,13 +4,13 @@ date = 2022-08-20
 description = "I'd frankly gotten really twisted up about how we were handling the potential errors that came from parsing the `link` field in the HTTP response from GitHub. This cleaned that mess up a lot, and I think made things a lot cleaner than they were before. Huge thanks to esitsu@Twitch and Wgaffa@Twitch for the many suggestions and corrections as I flailed through all this. (I was a bit tired still, and this wasn't my smartest day.)"
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "gtruQBwGIqE"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=gtruQBwGIqE&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=gtruQBwGIqE&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "gtruQBwGIqE"
 
 <div>
  {{ 
-    youtube(id="gtruQBwGIqE", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="gtruQBwGIqE", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

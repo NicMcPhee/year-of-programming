@@ -4,13 +4,13 @@ date = 2022-09-28
 description = "We finished at least the UI for the `ReviewAndSubmit` component today, and then got part way into changing the pagination to use 'Prev'/'Next' instead of page numbers."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "TAFPPxW8zVs"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=TAFPPxW8zVs&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=TAFPPxW8zVs&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "TAFPPxW8zVs"
 
 <div>
  {{ 
-    youtube(id="TAFPPxW8zVs", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="TAFPPxW8zVs", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

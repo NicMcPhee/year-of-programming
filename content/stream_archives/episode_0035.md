@@ -4,13 +4,13 @@ date = 2022-09-24
 description = "Today was quite nifty. We needed to change the UI for the 'Review & Submit' component so that could review the repositories that had been marked for archiving, but still provide a way to uncheck/recheck those that had been selected in the first pass. We had been just keeping track of a single boolean for archive vs. don't-archive, and we expanded that to a proper enum with three states: Archive (saying we want to archive this repo), Skip (saying we chose to not archive this repo in the initial pass through in the pagination component), and SkippedInReview to indicate that we'd unchecked a repo in the 'Review & Submit' component."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "HyASCOyYBkE"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=HyASCOyYBkE&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=HyASCOyYBkE&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "HyASCOyYBkE"
 
 <div>
  {{ 
-    youtube(id="HyASCOyYBkE", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="HyASCOyYBkE", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

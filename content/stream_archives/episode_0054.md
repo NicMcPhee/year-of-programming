@@ -4,13 +4,13 @@ date = 2022-11-15
 description = "A really successful session – a nice way to end things before a two week vacation! We did a lot of cool work changing my use of 'raw' `Fn`s to evolutionary computation specific traits. I felt like I was writing 'real' rust, and just writing well-designed code."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "rust-ga"
+playlist = "PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl"
 video_code = "GrU_4dGo6r0"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=GrU_4dGo6r0&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=GrU_4dGo6r0&list=PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "GrU_4dGo6r0"
 
 <div>
  {{ 
-    youtube(id="GrU_4dGo6r0", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="GrU_4dGo6r0", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl", class="flex grow")
  }} 
 </div>
 

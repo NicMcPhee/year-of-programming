@@ -4,13 +4,13 @@ date = 2022-11-02
 description = "We started with the simple GA I'd begun in Clojure over the summer (https://github.com/NicMcPhee/clojure-ga), and got it 'finished' to the point that we can now meaningfully compare the timing for the Rust and Clojure versions (although there was definitely some non-trivial confusion along the way). Based on some simple command-line tests, Rust is definitely *quite* a lot faster (at least 40-50x, maybe over 100x?). I'll need to actually run the serious benchmarks so we can see what all this actually means."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "rust-ga"
+playlist = "PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl"
 video_code = "t4_yWhyuVfk"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=t4_yWhyuVfk&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=t4_yWhyuVfk&list=PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "t4_yWhyuVfk"
 
 <div>
  {{ 
-    youtube(id="t4_yWhyuVfk", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="t4_yWhyuVfk", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl", class="flex grow")
  }} 
 </div>
 

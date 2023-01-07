@@ -4,13 +4,13 @@ date = 2022-09-03
 description = "After adding checkboxes on Tuesday morning, today we got the paginator state sorted so we can (hopefully) track the desired archival state of each repository."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "o8p7c6umFfc"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=o8p7c6umFfc&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=o8p7c6umFfc&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "o8p7c6umFfc"
 
 <div>
  {{ 
-    youtube(id="o8p7c6umFfc", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="o8p7c6umFfc", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

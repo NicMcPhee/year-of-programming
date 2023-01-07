@@ -4,13 +4,13 @@ date = 2022-07-19
 description = "A very exciting day! We managed to display the fix the parsing problems so we can successfully grab all the (public) repositories from an organization and display them! We added some other properties to our repository struct, so we can now filter out previously archived repos and display when repositories were last updated and pushed to."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "A28iext55Ao"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=A28iext55Ao&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=A28iext55Ao&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "A28iext55Ao"
 
 <div>
  {{ 
-    youtube(id="A28iext55Ao", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="A28iext55Ao", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

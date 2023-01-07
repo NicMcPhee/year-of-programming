@@ -4,13 +4,13 @@ date = 2022-07-19
 description = "Here we worked through the basics of making HTTP calls and parsing the results with `serde`. Got through several examples, but then failed at the last minute when we tried to actually make a request to GitHub. (This is resolved in the next episode.)"
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "jJjJEoxyBfQ"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=jJjJEoxyBfQ&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=jJjJEoxyBfQ&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "jJjJEoxyBfQ"
 
 <div>
  {{ 
-    youtube(id="jJjJEoxyBfQ", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="jJjJEoxyBfQ", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

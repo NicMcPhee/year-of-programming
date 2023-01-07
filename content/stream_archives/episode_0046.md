@@ -4,13 +4,13 @@ date = 2022-11-01
 description = "_Soooo_ much flailing – I really don't know what the heck I'm doing here, TBH. We got the basic Cloudflare Workers app running, but wasted a _ton_ of time because I (think I) entirely swapped out code bases under VS Code and it didn't seem to notice? Basically all the changes I was making didn't seem to have any effect, and we probably wasted a half hour or more because of that. My suspicion is that I did `rm -rf ice-repos-worker` in the terminal and then rebuilt it (in the terminal) while VS Code was open the whole time. I'm not really sure, though."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "ice-repos"
+playlist = "PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN"
 video_code = "Z1AQjuzyOB8"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=Z1AQjuzyOB8&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=Z1AQjuzyOB8&list=PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "Z1AQjuzyOB8"
 
 <div>
  {{ 
-    youtube(id="Z1AQjuzyOB8", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="Z1AQjuzyOB8", playlist="PLI9i5fpXEEc40_5gjSO--whmr_5Yp-aJN", class="flex grow")
  }} 
 </div>
 

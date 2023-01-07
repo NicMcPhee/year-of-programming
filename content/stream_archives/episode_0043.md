@@ -4,13 +4,13 @@ date = 2022-10-27
 description = "We spent the entire session writing and benchmarking different versions of lexicase selection in Rust, and we definitely improved things over time, although that wasn't entirely obvious by the end of the stream (more below)."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "segmented"
+playlist = "PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG"
 video_code = "GqVfnCwpT5o"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=GqVfnCwpT5o&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=GqVfnCwpT5o&list=PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "GqVfnCwpT5o"
 
 <div>
  {{ 
-    youtube(id="GqVfnCwpT5o", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="GqVfnCwpT5o", playlist="PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG", class="flex grow")
  }} 
 </div>
 

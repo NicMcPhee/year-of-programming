@@ -4,13 +4,13 @@ date = 2022-11-10
 description = "That was quite productive, in a somewhat grinding sort of way. The big thing was adding the second generic type `R` to `Individual` (for test `r`esults). In the process I renamed the weird 'internal' `R` type to `H` (to free up `R` for test results), and while I was there I renamed `T` to `G` (for the type of the `g`enome). We then had to refactor these changes out across the entire system, which was really tedious and took over an hour. We did get it done, though, and were able to run the system successfully!"
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "rust-ga"
+playlist = "PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl"
 video_code = "zZX9KGlYyY4"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=zZX9KGlYyY4&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=zZX9KGlYyY4&list=PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "zZX9KGlYyY4"
 
 <div>
  {{ 
-    youtube(id="zZX9KGlYyY4", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="zZX9KGlYyY4", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl", class="flex grow")
  }} 
 </div>
 

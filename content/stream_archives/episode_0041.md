@@ -4,13 +4,13 @@ date = 2022-10-05
 description = "Well, that was interesting. We spent most of this stream implementing lexicase selection in Rust. I had thought I'd be able to do it just using iterators in a nice way, but that went boom because Rust iterators include the closure (the test) as part of their type, so you can't just chain them together in the way that I'd anticipated. I still think there might be a way to do something like this, but I'm definitely not sure how."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "rust-ga"
+playlist = "PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl"
 video_code = "QHY-6jlK7i0"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=QHY-6jlK7i0&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=QHY-6jlK7i0&list=PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "QHY-6jlK7i0"
 
 <div>
  {{ 
-    youtube(id="QHY-6jlK7i0", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="QHY-6jlK7i0", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl", class="flex grow")
  }} 
 </div>
 

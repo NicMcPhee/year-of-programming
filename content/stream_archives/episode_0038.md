@@ -4,13 +4,13 @@ date = 2022-09-28
 description = "After last week's stream, I added support for command-line arguments using the `clap` crate, so I started tonight by going over that briefly."
 
 [extra]
-subject = "rustlings"
-playlist = "PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm"
+subject = "rust-ga"
+playlist = "PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl"
 video_code = "EUH-Q39zpV0"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=EUH-Q39zpV0&list=PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm).
+> [the YouTube video page](https://www.youtube.com/watch?v=EUH-Q39zpV0&list=PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "EUH-Q39zpV0"
 
 <div>
  {{ 
-    youtube(id="EUH-Q39zpV0", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm", class="flex grow")
+    youtube(id="EUH-Q39zpV0", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl", class="flex grow")
  }} 
 </div>
 

@@ -4,13 +4,13 @@ date = 2022-11-12
 description = "This was a very productive stream, even if it leaned a little towards the 'grinding' side of things at times. The main outcome was adding contexts to most of the (many) potential errors in the client using the `anyhow` crate. Adding the contexts themselves was often pretty straightforward, although time consuming, but there were some interesting opportunities to think about the error handling and improve things in places."
 
 [extra]
-subject = "echo"
-playlist = "PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d"
+subject = "segmented"
+playlist = "PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG"
 video_code = "06xW0L3yEJA"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=06xW0L3yEJA&list=PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d).
+> [the YouTube video page](https://www.youtube.com/watch?v=06xW0L3yEJA&list=PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "06xW0L3yEJA"
 
 <div>
  {{ 
-    youtube(id="06xW0L3yEJA", playlist="PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d", class="flex grow")
+    youtube(id="06xW0L3yEJA", playlist="PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG", class="flex grow")
  }} 
 </div>
 

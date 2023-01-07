@@ -4,13 +4,13 @@ date = 2022-08-27
 description = "This is the first in a new sub-series of episodes focusing on implementing and building out a set of labs in Rust for our Systems lab course."
 
 [extra]
-subject = "echo"
-playlist = "PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d"
+subject = "segmented"
+playlist = "PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG"
 video_code = "R91CJexusZA"
 +++
 
 > This description was scraped from
-> [the YouTube video page](https://www.youtube.com/watch?v=R91CJexusZA&list=PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d).
+> [the YouTube video page](https://www.youtube.com/watch?v=R91CJexusZA&list=PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG).
 > YouTube doesn't allow angle brackets, which are frequently used
 > in Rust generics. To make the YouTube parser happy I replaced the
 > angle brackets with parentheses when writing this description.
@@ -25,7 +25,7 @@ video_code = "R91CJexusZA"
 
 <div>
  {{ 
-    youtube(id="R91CJexusZA", playlist="PLI9i5fpXEEc6GHl9wyZUWm9UwtO-1Qj7d", class="flex grow")
+    youtube(id="R91CJexusZA", playlist="PLI9i5fpXEEc6_o2Xy0ozg_hrO4FgswkGG", class="flex grow")
  }} 
 </div>
 
