@@ -14,14 +14,14 @@
         {{ section.content | safe }}
     </article>
 
-    {% for stream_type in section.extra.stream_types -%}
+    {% for stream_subject in section.extra.stream_subjects -%}
     <div class="prose py-4">
-        <h2 class="">{{ stream_type.title }}</h2>
+        <h2 class="">{{ stream_subject.title }}</h2>
     </div>
 
     <ul>
         {% for page in section.pages -%}
-        {% if page.extra.type == stream_type.type -%}
+        {% if page.extra.subject == stream_subject.subject -%}
         <li class="pb-3">
             {{ blog::page_summary(page=page) }}
         </li>

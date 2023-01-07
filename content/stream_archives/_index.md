@@ -10,11 +10,11 @@ extra.index_title = "Streaming archives"
 extra.index_show = true
 extra.hidden_nav = false
 
-extra.stream_types = [
-  { title = "The Rustlings exercises", type = "rustlings", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm>" },
-  { title = "The `ice-repos` web app", type = "ice-repos" },
-  { title = "Evolutionary computation in Rust", type = "rust-ga" },
-  { title = "Systems labs in Rust", type = "systems-labs" }
+extra.stream_subjects = [
+  { title = "The Rustlings exercises", subject = "rustlings", playlist="PLI9i5fpXEEc6g4tZJsnOPKVjnGkOCMKmm>" },
+  { title = "The `ice-repos` web app", subject = "ice-repos" },
+  { title = "Evolutionary computation in Rust", subject = "rust-ga", playlist="PLI9i5fpXEEc7E8W7wkWYuzXgvPAv8Emkl" },
+  { title = "Systems labs in Rust", subject = "systems-labs" }
 ]
 +++
 
@@ -25,7 +25,7 @@ times a week [on Twitch](https://Twitch.tv/NicMcPhee). I've been [archiving
 the videos of those streams on YouTube](https://www.youtube.com/channel/UC5tGIQti2UYfCSI9aUeSZFQ),
 and am posting short summaries of those videos here, organized by topic/project.
 
-_**Pro tip**: I'd watch most of these at higher speeds (maybe 1.25x or 1.5x, or higher if
+_**Pro tip**: I'd watch most of these at higher speeds (at least 1.25x or 1.5x, or higher if
 you're so inclined) as there can be a fair bit of pausing and thinking. You can always
 slow down and back up if you zip past something you decide you need to watch more carefully._
 
